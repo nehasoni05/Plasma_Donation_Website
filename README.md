@@ -1,4 +1,4 @@
-<img src="project_snapshots/plasma.png" width="1000">
+<img src="project_snapshots/plasma.png" width="950">
 <h1>Hello 👋</h1>
 Welcome to <b>Plasma Donation website</b>. As we all know, the world is suffering from COVID-19 crisis. Our government and health care professionals are trying their best to help the  patients suffering from COVID-19. Scientists are trying to discover a vaccine to cure people affected with coronavirus. There is a scientific way from which we can help to lower the death ratio or help the COVID 19 affected person. Plasma therapy is an experimental approach to treat COVID positive patients and help them recover faster. But, in this situation it is difficult for a patient to find a plasma donor as everybody can’t donate plasma.
 <h1>Our project goal</h1>
