@@ -23,7 +23,7 @@ In this project, we have used the following technologies :-
 <h3> 3.) Hospitals List </h3>
 <img src="project_snapshots/HospitalsList.png"/>
 <h3> 4.) Plasma Info</h3>
-<img src="https://im6.ezgif.com/tmp/ezgif-6-5adfef57c7ba.gif"/>
+<img src="https://im7.ezgif.com/tmp/ezgif-7-507332abfe99.gif"/>
 <h3> 4.) Donor Form </h3>
 <img src="project_snapshots/DonorForm.png"/>
 <h3> 5.) Donors List </h3>
@@ -32,7 +32,7 @@ In this project, we have used the following technologies :-
 <img src="project_snapshots/RequestPlasmaForm.png"/>
 <h3> 7.) Requests List </h3>
 <img src="project_snapshots/PlasmaRequestList.png"/>
-<h3>✨ Team</h3>
+<h2>✨Team</h2>
 
 <table>
   <tr>
