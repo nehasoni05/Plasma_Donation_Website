@@ -32,5 +32,36 @@ In this project, we have used the following technologies :-
 <img src="project_snapshots/RequestPlasmaForm.png"/>
 <h3> 7.) Requests List </h3>
 <img src="project_snapshots/PlasmaRequestList.png"/>
+<h3>✨ Team</h3>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nehasoni05">
+      <img src="https://github.com/nehasoni05.png?size=100"><br>
+        Neha Soni
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AbhishekJaswal2001">
+      <img src="https://github.com/AbhishekJaswal2001.png?size=100"><br>
+        Abhishek Jaswal
+      </a>
+    </td>
+     <td>
+     <a href="https://github.com/kritikakaura1518">
+      <img src="https://github.com/kritikakaura1518.png?size=100"><br>
+       Kritika Kaura
+    </a>
+    </td>
+    <td>
+     <a href="https://github.com/ridhisood04">
+      <img src="https://github.com/ridhisood04.png?size=100"><br>
+       Ridhi Sood
+    </a>
+    </td>
+  </tr>
+  
+  </table>
 <h3>If you like our work please give us a ⭐, it will motivate us to do more awesome work 😊</h3>
+
