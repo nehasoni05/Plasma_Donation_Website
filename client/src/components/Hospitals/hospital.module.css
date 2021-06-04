@@ -1,0 +1,28 @@
+.card
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+    height: 100%;
+    position: relative;
+    margin: 10;
+    background-color: #b3e5fc;
+}
+.title
+{
+    padding: 0 16px;
+    font-size:25;
+    color:black;
+    font-weight: bold;
+    text-align: left;
+}
+.content
+{
+    padding: 0 16px;
+    font-size:25;
+    color:black;
+    
+    text-align: left;
+}

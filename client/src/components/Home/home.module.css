@@ -1,0 +1,55 @@
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.para
+{
+    font-size: 2em;
+}
+h1
+{
+    color:white;
+    display: block;
+    font-size: 3em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.quoteDiv
+{
+    background-color: rgb(179, 255, 179);
+    margin-top: 15px;
+    padding: 3px;
+    text-align: center;
+
+}
+.quote
+{
+    color: green;
+    font-size: 3em;
+    animation: blinker 2s linear infinite;
+}
+@keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+}
+.currentState
+{
+    color: rgb(128, 32, 0);
+    padding: 15px;
+    font-size: 3rem;
+    text-align: center;
+    background-color: rgb(255, 198, 179);
+    font-weight: bold;
+    border-radius: 4px;
+}
+@media only screen and (max-width: 770px) {
+    .container {
+        margin: 0 10%;
+    }
+}

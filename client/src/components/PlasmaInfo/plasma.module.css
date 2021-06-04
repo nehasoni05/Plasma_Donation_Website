@@ -1,0 +1,88 @@
+.container
+{
+    background-image:url('./images/background.jpg') ;
+  
+}
+.image
+{
+width: 300px;
+height: 300px;
+margin: 10px;
+}
+.heading
+{
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+    margin-top: 15px;
+    font-family: cursive;
+}
+.flipcard {
+    margin: auto;
+    margin-top: 15px;
+    background-color: transparent;
+    width: 650px;
+    height: 450px;
+    perspective: 1000px;
+    
+  }
+  
+  .flipcardinner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .flipcard:hover .flipcardinner {
+    transform: rotateY(180deg);
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  }
+  
+  .flipcardfront, .flipcardback {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  
+  .flipcardfront {
+    background-color: rgb(226, 164, 164);
+    color: black;
+  }
+  
+  .flipcardback {
+    background-color: rgb(226, 164, 164);
+    color: white;
+    transform: rotateY(180deg);
+  }
+  .content
+  {
+      font-size: 22px;
+      padding: 10px;
+      margin-top: 15%;
+      font-weight: bold;
+      color: black;
+  }
+  .ulcontent
+  {
+    margin-top: 5%;
+  }
+  .licontent
+  {
+      font-size: 22px;
+      padding: 10px;
+      padding-left: 0px;
+      text-align: left;
+      font-weight: bold;
+      color: black;
+  }
+  .quote
+  {
+      color: yellow;
+      font-size: 25px;
+  }

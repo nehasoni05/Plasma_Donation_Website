@@ -1,0 +1,39 @@
+ul
+{
+    list-style-type: none;
+}
+.footer-cols
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 13px;
+}
+footer
+{
+    background-color: black;
+    padding: 2rem;
+    color:lightgray;
+    font-family: 'PT Sans',sans-serif;
+    width: 100%;
+}
+li
+{
+    font-size: 16px;
+    padding: 2px;
+    color: white;
+}
+.listEle
+{
+    font-size:2.5rem;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+p
+{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
