@@ -32,6 +32,16 @@ In this project, we have used the following technologies :-
 <img src="project_snapshots/RequestPlasmaForm.png"/>
 <h3> 7.) Requests List </h3>
 <img src="project_snapshots/PlasmaRequestList.png"/>
+
+**Working Project Video:-** [Plasma Donation Website](https://drive.google.com/file/d/1EFCLIF-TqjJvc2h8EJK2Guxsn3IIA-px/view?usp=sharing)
+
+## Contribute
+**'' YOUR CONTRIBUTION MATTERS ''**<br>
+As I am a student so I am not able to add too much functionality to this project. So, if you find any problem, bug (🐞), want to add more features to this website, or want to share any kind of suggestions to improve our work please let us know by creating an  [issue here](https://github.com/nehasoni05/Plasma_Donation_Website/issues). I will also try to work more on this project so I will host it somewhere and people find it useful.
+
+## Future Work:-
+1.) In future, we will try to verify the genuine users.<br>
+2.) For now, we have just listed the hospitals in Delhi, but in the future, we will try to add hospitals of each state of India.
 <h2>✨Team</h2>
 
 <table>
