@@ -22,8 +22,6 @@ In this project, we have used the following technologies :-
 <img src="project_snapshots/VaccineCentres.png"/>
 <h3> 3.) Hospitals List </h3>
 <img src="project_snapshots/HospitalsList.png"/>
-<h3> 4.) Plasma Info</h3>
-<img src="https://im7.ezgif.com/tmp/ezgif-7-507332abfe99.gif"/>
 <h3> 4.) Donor Form </h3>
 <img src="project_snapshots/DonorForm.png"/>
 <h3> 5.) Donors List </h3>
